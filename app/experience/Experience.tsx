@@ -43,7 +43,7 @@ const Experience = () => {
                             </ul>
                         </li>
                         <li>
-                            Improve the website's SEO using server-side rendering.
+                            Improve the website&apos;s SEO using server-side rendering.
                         </li>
                         </ul>
                     </div>

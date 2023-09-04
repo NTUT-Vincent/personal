@@ -28,11 +28,11 @@ export default function Home() {
         <div>
           <h1 id="about" className="text-5xl text-center">About</h1>
           <p className='text-start w-4/5 mx-auto my-5 font-mono'>
-            Hello, my name is Ssu Hsien Chung, and I am currently pursuing a Master's degree in Computer Science at the University of Southern California (USC). My passion lies in software engineering, and I have two internship experiences. 
+            Hello, my name is Ssu Hsien Chung, and I am currently pursuing a Master&apos;s degree in Computer Science at the University of Southern California (USC). My passion lies in software engineering, and I have two internship experiences. 
             <br/><br/>
-            As a software engineer intern at PChome Online Inc., one of the largest e-commerce companies in Asia, I joined the front-end development team. I developed the front-end application for the company. I was assigned a task that asked me to improve the website's performance. I rebuilt the old project using Next.js and eventually improved website performance by 35% and decreased 0.5 s FCP, 6.4 s LCP, and 640 ms total blocking time. 
+            As a software engineer intern at PChome Online Inc., one of the largest e-commerce companies in Asia, I joined the front-end development team. I developed the front-end application for the company. I was assigned a task that asked me to improve the website&apos;s performance. I rebuilt the old project using Next.js and eventually improved website performance by 35% and decreased 0.5 s FCP, 6.4 s LCP, and 640 ms total blocking time. 
             <br/><br/>
-            My other internship experience is as a software engineer intern at Sunbird Software. In this internship program, I worked on a project about refactoring the backend program using aspect-oriented programming (AOP). I refactored the program and improved code quality by reducing duplication and enhancing readability. I also wrote test cases for all the refactored code and checked all the test cases passed to ensure my implementation's correctness.
+            My other internship experience is as a software engineer intern at Sunbird Software. In this internship program, I worked on a project about refactoring the backend program using aspect-oriented programming (AOP). I refactored the program and improved code quality by reducing duplication and enhancing readability. I also wrote test cases for all the refactored code and checked all the test cases passed to ensure my implementation&apos;s correctness.
             <br/><br/>
             I have worked on several software projects throughout my academic career, including Yelp Business Search, the Sunbird Software Collaboration Project with NTUT, and other side projects. These experiences have provided valuable insights into the software development process and the importance of collaboration and communication in achieving project success.
             <br/><br/>
