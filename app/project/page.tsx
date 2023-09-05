@@ -1,7 +1,7 @@
 const Project = () => {
     return (
         <>
-            <h1 className="text-5xl text-center" id="project">Project</h1>
+            <h1 className="text-2xl sm:text-4xl text-center" id="project">Project</h1>
             <div className="flex flex-col gap-5">
                 <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
                     <div className="md:flex">
@@ -40,7 +40,7 @@ const Project = () => {
                                 <div className="text-base basis-full md:basis-1/2">
                                     Sunbird Software Collaboration Project with NTUT
                                 </div>
-                                <div className="basis-full md:basis-1/3 text-sm text-right">
+                                <div className="basis-full md:basis-1/3 text-sm text-left sm:text-right">
                                     JUL 2020 - FEB 2022
                                 </div>
                             </div>
@@ -70,7 +70,7 @@ const Project = () => {
                                 <div className="text-base basis-full md:basis-1/2">
                                     E-commerce web application: PC Store
                                 </div>
-                                <div className="basis-full md:basis-1/3 text-sm text-right">
+                                <div className="basis-full md:basis-1/3 text-sm text-left sm:text-right">
                                     SEP 2020 - DEC 2020
                                 </div>
                             </div>

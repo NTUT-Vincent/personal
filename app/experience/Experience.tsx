@@ -1,11 +1,11 @@
 const Experience = () => {
     return (
         <>
-            <h1 className="text-5xl text-center" id="exp">Experience</h1>
+            <h1 className="text-2xl sm:text-4xl text-center" id="exp">Experience</h1>
             <div className="flex flex-col gap-5">
                 <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
                 <div className="md:flex">
-                    <div className="md:shrink-0 flex flex-row items-center">
+                    <div className="md:shrink-0 flex flex-row items-center justify-center">
                         <a href="https://corp.pchome.tw/en/">                           
                             <img className="h-48 w-full object-cover md:w-48" src="/pchome.png" alt="Modern building architecture"/>
                         </a>
@@ -52,7 +52,7 @@ const Experience = () => {
                 </div>
                 <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl w-full">
                 <div className="md:flex">
-                    <div className="md:shrink-0 flex flex-row items-center">
+                    <div className="md:shrink-0 flex flex-row items-center justify-center">
                         <a href="https://www.sunbirddcim.com/about-us">
                             <img className="h-48 w-full object-cover md:w-48" src="/sunbird.jpeg" alt="Modern building architecture"/>
                         </a>
