@@ -37,7 +37,7 @@ const SideBar = () => {
     return (
         <div onMouseLeave={handleButtonClick} onMouseEnter={handleButtonClick} className="h-1/2">
             <div className="visible sm:invisible">
-                <FontAwesomeIcon icon={faSquareCaretDown} size="2xl"/>
+                <FontAwesomeIcon icon={faSquareCaretDown} size="2xl" className="opacity-30"/>
             </div>
             
             { showMenu ? ( 

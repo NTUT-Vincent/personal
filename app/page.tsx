@@ -10,14 +10,14 @@ export default function Home() {
   return (
     <main>
       <aside>
-        <div className="fixed left-5 top-1/4 h-screen">
+        <div className="fixed left-0 sm:left-5 top-0 sm:top-1/4 h-screen">
           <SideBar/>
       </div>
     </aside>
     <div className="flex min-h-screen flex-col items-center justify-start p-0 sm:p-24 gap-10">
       
       <div className='flex flex-col items-center gap-10 sm:flex-row'>
-        <img className='object-cover h-48 w-48 rounded-full' src='/myphoto.jpg'></img>
+        <img className='object-cover h-48 w-48 rounded-full' src='/myEmo.png'></img>
         <div className="text-center sm:w-full font-mono">
           <strong className="text-lg">Ssu Hsien, Chung</strong>
           <p>Software Engineer</p>
